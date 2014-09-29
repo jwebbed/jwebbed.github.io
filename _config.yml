@@ -12,3 +12,8 @@ github_username:  jwebbed
 
 # Build settings
 markdown: kramdown
+
+
+navigation:
+  - title: Blog
+    link: /blog/
