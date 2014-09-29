@@ -1,4 +1,8 @@
-## Hackathons, Hackathon Culture, Startups, and Future of Technology
+---
+layout: post
+title: Hackathons, Hackathon Culture, Startups, and Future of Technology
+
+---
 Let me preface all of this with I really like going to hackathons. I love coding, I love being surrounded by other people who love coding, and above all else I love doing awesome things with awesome people. Hackathons sucessfully do all these things for me, but as with all things you care about a lot, it enables you to see through the first layer, and with enough objectivity, allows you to really critique it.
 
 In my opinion, underlying hackathons, and really everything in the title, is this fundamental philosophy that really drives a lot of what we do. I think this philosophy is summed up very eloquently by the expression: "Fuck it, ship it". If yoy haven't seen "The Birth and Death of Javascript" by <insert name here> I'd highly recomend you check it out, it's a very insightful talk and inspirtional to a lot of what I'm writing about today.
