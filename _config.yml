@@ -15,5 +15,7 @@ markdown: kramdown
 
 
 navigation:
+  - title: Portfolio
+    link: /portfolio/
   - title: Blog
     link: /blog/
