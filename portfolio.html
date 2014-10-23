@@ -4,5 +4,10 @@ permalink: /portfolio/
 ---
 
 <div id="portfolio">
+	{% for project in site.data.portfolio %}
+	<div id="{{ project.name}}">
+		<p> {{ project.name }} </p>
 
+	</div>
+	{% endfor %}
 </div>
