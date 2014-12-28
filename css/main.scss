@@ -42,9 +42,14 @@ $on-laptop:        800px;
 
 .portfolio-element{
   //background-color: $jwebb-color;
-  min-height: 10em;
-  background-image:
-    radial-gradient($jwebb-color, rgba(0,0,0,0));
+  min-height: 15em;
+  rgba(73,155,234,1) 0%, rgba(53,140,232,0.5) 50%, rgba(43,137,230,0) 100%);
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(73,155,234,1)), color-stop(50%, rgba(53,140,232,0.5)), color-stop(100%, rgba(43,137,230,0)));
+  background: -webkit-radial-gradient(center, ellipse cover, rgba(73,155,234,1) 0%, rgba(53,140,232,0.5) 50%, rgba(43,137,230,0) 100%);
+  background: -o-radial-gradient(center, ellipse cover, rgba(73,155,234,1) 0%, rgba(53,140,232,0.5) 50%, rgba(43,137,230,0) 100%);
+  background: -ms-radial-gradient(center, ellipse cover, rgba(73,155,234,1) 0%, rgba(53,140,232,0.5) 50%, rgba(43,137,230,0) 100%);
+  background: radial-gradient(ellipse at center, rgba(73,155,234,1) 0%, rgba(53,140,232,0.5) 50%, rgba(43,137,230,0) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#499bea', endColorstr='#2b89e6', GradientType=1 );
   padding: 2em;
 
 
