@@ -16,6 +16,7 @@ $spacing-unit:     30px;
 $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
+$jwebb-color:      #2b89e6;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -39,7 +40,15 @@ $on-laptop:        800px;
     }
 }
 
+.portfolio-element{
+  //background-color: $jwebb-color;
+  min-height: 10em;
+  background-image:
+    radial-gradient($jwebb-color, rgba(0,0,0,0));
+  padding: 2em;
 
+
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
