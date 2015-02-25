@@ -1,3 +1,2 @@
 User-agent: *
 Disallow: /public_keys.txt
-Disallow: /bcard
