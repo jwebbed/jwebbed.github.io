@@ -1,0 +1,17 @@
+html {
+  font: 16px/18px "Open Sans","Helvetica Neue","Helvetica",sans-serif; }
+
+#card {
+  width: 1062px;
+  height: 615px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 17px;
+  padding-right: 17px;
+  text-align: center; }
+  #card h1 {
+    margin: 12px; }
+  #card p {
+    margin: 9px; }
+
+/*# sourceMappingURL=styles.css.map */
